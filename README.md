@@ -1,6 +1,6 @@
 # Joe Clement
 ## My study
-I learn
+I learn more
 - Statistics
 - Data Science
 - Machine learning
